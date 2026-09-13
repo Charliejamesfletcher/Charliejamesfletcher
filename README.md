@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on Artificial Intelligence
 
-- 💬 Ask me about tokenization
+- 💬 Ask me about: tokenization
 
 - 📫 How to reach me: **21cfletcher@copleston.suffolk.sch.uk**
 
