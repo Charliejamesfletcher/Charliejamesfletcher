@@ -1,20 +1,18 @@
 <h1 align="center">Hi 👋, I'm Charlie</h1>
 <h3 align="center">A passionate python developer from the UK</h3>
 
-- 🔭 I’m currently working on **a micro LLM**
+- 🔭 I’m currently working on a micro LLM
 
-- 🌱 I’m currently learning **linear regression**
+- 🌱 I’m currently learning linear regression
 
-- 📝 I regularly write articles on [Artificial Intelligence](Artificial Intelligence)
+- 📝 I regularly write articles on Artificial Intelligence
 
-- 💬 Ask me about **tokenization**
+- 💬 Ask me about tokenization
 
-- 📫 How to reach me **21cfletcher@copleston.suffolk.sch.uk**
+- 📫 How to reach me: **21cfletcher@copleston.suffolk.sch.uk**
 
-- ⚡ Fun fact **I love my cat Dennis**
+- ⚡ Fun fact I **love** my cat Dennis
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
