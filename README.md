@@ -1,3 +1,4 @@
+![Header](./github-header-banner.png)
 <h1 align="center">Hi 👋, I'm Charlie</h1>
 <h3 align="center">A passionate python developer from the UK</h3>
 
